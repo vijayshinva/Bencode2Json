@@ -1,7 +1,18 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp1.1</TargetFramework>
+    <Description>A .NET Core Library for converting Bencoded Dictionaries to Json Documents</Description>
+    <RepositoryUrl>https://github.com/vijayshinva/Bencode2Json</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/vijayshinva/Bencode2Json</PackageProjectUrl>
+    <Copyright>http://vijayshinva.github.io/</Copyright>
+    <PackageTags>bencode</PackageTags>
+    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
+    <PackageLicenseUrl>https://github.com/vijayshinva/Bencode2Json/blob/master/LICENSE</PackageLicenseUrl>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.CodeCoverage" Version="1.0.3" />
+  </ItemGroup>
 
 </Project>
