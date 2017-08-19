@@ -6,9 +6,10 @@
     <RepositoryUrl>https://github.com/vijayshinva/Bencode2Json</RepositoryUrl>
     <PackageProjectUrl>https://github.com/vijayshinva/Bencode2Json</PackageProjectUrl>
     <Copyright>http://vijayshinva.github.io/</Copyright>
-    <PackageTags>bencode</PackageTags>
-    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
+    <PackageTags>bencode json bencode-parser torrent torrent-files torrent-parser dotnet-core</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageLicenseUrl>https://github.com/vijayshinva/Bencode2Json/blob/master/LICENSE</PackageLicenseUrl>
+    <Version>0.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>

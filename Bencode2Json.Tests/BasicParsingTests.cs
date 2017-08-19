@@ -8,7 +8,6 @@ namespace Bencode2Json.Tests
     [TestClass]
     public class BasicParsingTests
     {
-
         [TestMethod]
         public void Parse_String()
         {

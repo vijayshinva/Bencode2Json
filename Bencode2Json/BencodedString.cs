@@ -30,7 +30,6 @@ namespace Bencode2Json
             {
                 return $"\"{Convert.ToBase64String(Data)}\"";
             }
-
         }
     }
 }
