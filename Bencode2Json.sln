@@ -7,10 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bencode2Json", "Bencode2Jso
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bencode2Json.Tests", "Bencode2Json.Tests\Bencode2Json.Tests.csproj", "{A82837C4-EE0C-42DE-A46B-19E26D228596}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{9E2664F7-DF62-4E96-9B5D-24DF09C33423}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TorrentFileParser", "TorrentFileParser\TorrentFileParser.csproj", "{65FCA043-8790-4FE3-9679-4646E76130B5}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,16 +21,9 @@ Global
 		{A82837C4-EE0C-42DE-A46B-19E26D228596}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A82837C4-EE0C-42DE-A46B-19E26D228596}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A82837C4-EE0C-42DE-A46B-19E26D228596}.Release|Any CPU.Build.0 = Release|Any CPU
-		{65FCA043-8790-4FE3-9679-4646E76130B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{65FCA043-8790-4FE3-9679-4646E76130B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{65FCA043-8790-4FE3-9679-4646E76130B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{65FCA043-8790-4FE3-9679-4646E76130B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{65FCA043-8790-4FE3-9679-4646E76130B5} = {9E2664F7-DF62-4E96-9B5D-24DF09C33423}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {155FD335-2354-4FC6-933B-7F4B198E5F51}
