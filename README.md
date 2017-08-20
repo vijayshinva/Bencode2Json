@@ -12,10 +12,10 @@ Bencoded dictionaries like the one shown below can easily be coverted to JSON us
 ```bencode
 d5:debug4:truee
 ```
-##### Json
+##### JSON
 ```json
 {
-	"debug": "true"
+    "debug": "true"
 }
 ```
 - [Installation](#installation)
