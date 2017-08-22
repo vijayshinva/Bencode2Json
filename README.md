@@ -4,7 +4,8 @@ A .NET Core Library for converting Bencoded Dictionaries to Json Documents
 
 [![Build status](https://ci.appveyor.com/api/projects/status/fcije8tvireboq8d/branch/master?svg=true)](https://ci.appveyor.com/project/vijayshinva/bencode2json/branch/master)
 [![CodeFactor](https://www.codefactor.io/repository/github/vijayshinva/bencode2json/badge)](https://www.codefactor.io/repository/github/vijayshinva/bencode2json)
-[![NuGet](https://img.shields.io/nuget/v/Nuget.Core.svg)](https://www.nuget.org/packages/bencode2json)
+[![NuGet version](https://badge.fury.io/nu/bencode2json.svg)](https://badge.fury.io/nu/bencode2json)
+
 ## Overview
 Bencoded dictionaries like the one shown below can easily be coverted to JSON using this library.
 
