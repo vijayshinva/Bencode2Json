@@ -56,7 +56,7 @@ This demo parses an torrent file (which is basically a bencoded dictionary) and 
 
 
 ## License
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/vijayshinva/Bencode2Json/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/vijayshinva/bencode2json.svg)](https://github.com/vijayshinva/Bencode2Json/blob/master/LICENSE)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fvijayshinva%2FBencode2Json.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fvijayshinva%2FBencode2Json?ref=badge_shield)
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fvijayshinva%2FBencode2Json.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fvijayshinva%2FBencode2Json?ref=badge_large)
